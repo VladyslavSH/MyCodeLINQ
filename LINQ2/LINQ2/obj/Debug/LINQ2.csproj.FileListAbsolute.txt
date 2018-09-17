@@ -1,0 +1,6 @@
+D:\Git\LINQ2\LINQ2\bin\Debug\LINQ2.exe.config
+D:\Git\LINQ2\LINQ2\bin\Debug\LINQ2.exe
+D:\Git\LINQ2\LINQ2\bin\Debug\LINQ2.pdb
+D:\Git\LINQ2\LINQ2\obj\Debug\LINQ2.exe
+D:\Git\LINQ2\LINQ2\obj\Debug\LINQ2.pdb
+D:\Git\LINQ2\LINQ2\obj\Debug\LINQ2.csprojResolveAssemblyReference.cache
